@@ -28,8 +28,6 @@ Atualmente, estou focado em automatizar a fase de **Reconhecimento (Recon)**. Ab
 Local: `Ferramentas/Recon/`
 
 * **Script de Recon Inicial:** Realiza varredura de portas, identificação de serviços e busca básica de diretórios.
-* *(Liste aqui outro script se tiver)*
-* *(Liste aqui outro script se tiver)*
 
 > *Todos os scripts possuem documentação própria dentro de suas respectivas pastas, explicando o modo de uso e parâmetros.*
 
