@@ -51,4 +51,4 @@ Nesta fase, você não está tentando derrubar o Pentágono. Você está aprende
 
 1.  **Inglês não é opcional**: Se você não lê Man Pages em inglês, vai sofrer nas provas. A maioria das certificações globais não fala português.
 2.  **Mãos no teclado (Hands-on)**: Certificado sem prática é apenas um PDF caro. Use o **TryHackMe** ou **HackTheBox** para validar o que o livro ensinou.
-3.  **Manutenção**: Lembre-se que certificações como a Security+ expiram. Você vai precisar de CEUs (Continuing Education Units) ou terá que fazer a prova de novo em 3 anos. Não deixe seu conhecimento virar um *legacy system*.
+3.  **Manutenção**: Lembre-se que certificações como a Security+ expiram. Você vai precisar de CEUs (Continuing Education Units) ou terá que fazer a prova de novo! Não deixe seu conhecimento virar um *legacy system*.
